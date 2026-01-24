@@ -54,18 +54,19 @@ A comprehensive exploratory data analysis of European football data. Applied sta
 
 
 ## 📜 Education & Certification
-*   **B.Sc. Honours in Statistics** - My formal foundation in data analysis, statistical inference, and mathematical modeling.
-*   **IBM Machine Learning Professional Certificate** (Coursera) - A six-course specialization covering data science, supervised/unsupervised learning, and a capstone project.
+
+*   **B.Sc. in Statistics** - My formal foundation in data analysis and statistical inference. While the university curriculum of the time felt disconnected from practical application, it planted the core theoretical seeds. **Re-engaging with these concepts through modern Python and Machine Learning has been a revelation—transforming rigid theory into a dynamic, problem-solving toolkit.**
+*   **IBM Machine Learning Professional Certificate** (Coursera) - The catalyst for this transition. This six-course specialization equipped me with the practical skills to build, evaluate, and deploy models, effectively bridging the gap between my statistical foundation and contemporary data science.
 
 ## ✍️ My Unique Edge
 
-My background in **sports journalism and PR ghostwriting** is not a detour—it's a core strength. It means I am adept at:
+My career has been a deliberate search for rigorous, impactful problem-solving.
 
-*   **Explaining complex technical concepts** clearly to both technical peers and business stakeholders.
-*   **Translating model performance and statistical findings** into clear business impact and strategic recommendations.
-*   **Documenting and presenting** work with precision to ensure clarity, reproducibility, and effective knowledge sharing.
+My background in **sports journalism and PR ghostwriting** honed my ability to **explain complex concepts clearly** and **translate technical details into strategic value** for any audience. However, I consistently sought a deeper, more analytical challenge.
 
-I bridge the gap between statistical theory, machine learning implementation, and actionable business communication.
+This drive led me to **re-engage with my foundational Statistics degree through the lens of modern Machine Learning**. For me, ML engineering is the ideal synthesis: it demands **statistical rigor**, **creative solution design**, and **production-focused building**. It finally provides the sustained mental stimulation I was seeking.
+
+I bridge the gap between theory and practice, building robust systems and clearly articulating their business impact.
 
 ## 📫 Let's Connect
 Feel free to reach out if you're interested in collaboration, opportunity, or just want to discuss data and football!
