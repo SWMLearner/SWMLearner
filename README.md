@@ -42,9 +42,9 @@ Segmented 16,500+ video games using K-Means, DBSCAN, and Hierarchical Clustering
 A project from the IBM Machine Learning Certificate applying **supervised learning**. Developed and evaluated regression models to analyze and predict factors influencing goal-scoring events in football, moving from exploration to statistical modeling.
 *`Python` `Pandas` `Scikit-learn` `Regression` `Statistical Modeling`*
 
-### 📊 **Exploratory Data & Analysis**
+## 📊 Exploratory Data Analysis
 **[Football Data EDA](https://github.com/SWMLearner/football_eda)**
-A comprehensive exploratory data analysis of European football data, uncovering trends in player performance and team finance.
+A comprehensive exploratory data analysis of European football data. Applied statistical reasoning and hypothesis testing to validate insights about player valuations, team performance, and financial efficiency.
 *`Python` `Pandas` `Seaborn` `EDA`*
 
 
@@ -53,15 +53,17 @@ A comprehensive exploratory data analysis of European football data, uncovering 
 *   **IBM Machine Learning Professional Certificate** (Coursera) - A six-course specialization covering data science, supervised/unsupervised learning, and a capstone project.
 
 ## ✍️ My Unique Edge
-My background in **sports journalism and PR ghostwriting** is not a detour; it's a core strength. It means I am adept at:
-*   **Explaining complex technical concepts** clearly to any audience.
-*   **Articulating the business value** of a model, not just its accuracy.
-*   **Documenting and presenting** work effectively.
 
-I bridge the gap between statistical theory, machine learning implementation, and clear communication.
+My background in **sports journalism and PR ghostwriting** is not a detour—it's a core strength. It means I am adept at:
+
+*   **Explaining complex technical concepts** clearly to both technical peers and business stakeholders.
+*   **Translating model performance and statistical findings** into clear business impact and strategic recommendations.
+*   **Documenting and presenting** work with precision to ensure clarity, reproducibility, and effective knowledge sharing.
+
+I bridge the gap between statistical theory, machine learning implementation, and actionable business communication.
 
 ## 📫 Let's Connect
-I'm always open to discussing technology, opportunities, or interesting data.
+Feel free to reach out if you're interested in collaboration, opportunity, or just want to discuss data and football!
 *   **LinkedIn:** https://www.linkedin.com/in/sargamwadhwa
 *   **Email:** sargamwad@gmail.com
 *   **GitHub:** You're already here!
