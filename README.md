@@ -6,6 +6,8 @@ I am a former writer (sports journalist & PR ghostwriter) who transitioned into 
 
 I am actively exploring Machine Learning Engineer and Data Scientist opportunities, with a particular interest in roles within **Southeast Asia, PRC, or global companies operating in these regions**.
 
+**[![ModelScope](https://img.shields.io/badge/Deployed_on-ModelScope-0078FF?style=flat&logo=azure-pipelines&logoColor=white)](https://modelscope.ai/studios/SargamWadhwa/9-way-recommender-system)**
+
 ## 🛠️ Technical Toolkit
 
 | Category | Technologies & Tools |
