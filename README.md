@@ -55,7 +55,7 @@ A comprehensive exploratory data analysis of European football data. Applied sta
 
 ## 📜 Education & Certification
 
-*   **B.Sc. in Statistics** - My formal foundation in data analysis and statistical inference. While the university curriculum of the time felt disconnected from practical application, it planted the core theoretical seeds. **Re-engaging with these concepts through modern Python and Machine Learning has been a revelation—transforming rigid theory into a dynamic, problem-solving toolkit.**
+*   **B.Sc.(Honours) in Statistics** - My formal foundation in calculus,data analysis and statistical inference. While the university curriculum of the time felt disconnected from practical application, it planted the core theoretical seeds. **Re-engaging with these concepts through modern Python and Machine Learning has been a revelation—transforming rigid theory into a dynamic, problem-solving toolkit.**
 *   **IBM Machine Learning Professional Certificate** (Coursera) - The catalyst for this transition. This six-course specialization equipped me with the practical skills to build, evaluate, and deploy models, effectively bridging the gap between my statistical foundation and contemporary data science.
 
 ## ✍️ My Unique Edge
