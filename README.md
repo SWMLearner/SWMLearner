@@ -13,7 +13,7 @@ I am actively exploring Machine Learning Engineer and Data Scientist opportuniti
 | Category | Technologies & Tools |
 | :--- | :--- |
 | **Languages & Core ML** | Python, Scikit-learn, Pandas, NumPy, Statsmodels |
-| **Deep Learning & NLP** | TensorFlow, Keras, PyTorch (Learning), OpenCV, NLTK |
+| **Deep Learning & NLP** | TensorFlow, Keras, PyTorch, OpenCV, NLTK |
 | **Deployment & MLOps** | **Docker**, **Streamlit**, Git, GitHub Actions, CI/CD |
 | **Data Visualization & DB** | Matplotlib, Seaborn, Plotly, SQL |
 | **Cloud & Platforms** | Google Colab, Kaggle, Streamlit Cloud, ModelScope, GitHub Pages |
