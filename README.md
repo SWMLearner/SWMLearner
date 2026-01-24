@@ -54,7 +54,7 @@ A comprehensive exploratory data analysis of European football data. Applied sta
 
 
 ## 📜 Education & Certification
-*   **B.Sc. in Statistics** - My formal foundation in data analysis, statistical inference, and mathematical modeling.
+*   **B.Sc. Honours in Statistics** - My formal foundation in data analysis, statistical inference, and mathematical modeling.
 *   **IBM Machine Learning Professional Certificate** (Coursera) - A six-course specialization covering data science, supervised/unsupervised learning, and a capstone project.
 
 ## ✍️ My Unique Edge
