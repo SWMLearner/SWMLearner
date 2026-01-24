@@ -22,7 +22,10 @@ I am actively exploring Machine Learning Engineer and Data Scientist opportuniti
 
 ### 🚀 **Flagship Project: End-to-End ML System**
 **[9-Way Hybrid Recommender System](https://github.com/SWMLearner/9-way-recommender-system)**
-A production-grade course recommendation engine. Implements 8 collaborative/content-based algorithms, **containerized with Docker** via automated CI/CD. **Dual-platform deployed:** hosted on **[Streamlit Cloud](https://9-way-recommender-system.streamlit.app/)** for global access and **[ModelScope](https://modelscope.ai/studios/SargamWadhwa/9-way-recommender-system)** for the Chinese developer ecosystem. Demonstrates full-stack ML engineering and practical, market-aware deployment.
+A production-grade course recommendation engine. Implements 8 collaborative/content-based algorithms, **containerized with Docker** via automated CI/CD. 
+
+
+**Dual-platform deployed:** hosted on **[Streamlit Cloud](https://9-way-recommender-system.streamlit.app/)** for global access and **[ModelScope](https://modelscope.ai/studios/SargamWadhwa/9-way-recommender-system)** for the Chinese developer ecosystem. Demonstrates full-stack ML engineering and practical, market-aware deployment.
 *`Python` `Docker` `Streamlit` `CI/CD` `Scikit-learn` `ModelScope`*
 
 ### ⚙️ **MLOps & Deployment Focus**
