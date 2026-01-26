@@ -1,53 +1,58 @@
 # Hi, I'm Sargam 👋
 
 ### 🎯 Machine Learning Practitioner | Specializing in Deep Learning & MLOps
-*Building intelligent systems from concept to production. Strong foundation in statistics, enhanced by hands-on deployment skills.*
+
+**Building intelligent systems from concept to production.** I combine a rigorous foundation in statistical theory with modern, hands-on deployment skills.
 
 ---
 
 ### 🛠️ Technical Skills
-**🧠 Machine Learning & Deep Learning:** Classical ML, Neural Networks, Computer Vision, Recommendation Systems, NLP  
-**🚀 MLOps & Deployment:** Docker, CI/CD (GitHub Actions), Streamlit, Model Serving, API Development  
-**📊 Data Science Toolkit:** Python (Pandas, Scikit-learn, TensorFlow), Statistical Analysis, EDA, Visualization  
-**🗣️ Core Strength:** Translating complex models into clear insights—honed through previous work in journalism and communications.
+
+* **🧠 Machine Learning & Deep Learning:** Classical ML, Neural Networks, Computer Vision, Recommendation Systems, NLP
+* **🚀 MLOps & Deployment:** Docker, CI/CD (GitHub Actions), Streamlit, Model Serving, ModelScope (Alibaba Cloud)
+* **📊 Data Science Toolkit:** Python (Pandas, Scikit-learn, TensorFlow), Statistical Analysis, Hypothesis Testing
+* **🗣️ Core Strength:** **Data Storytelling** — Translating complex model results into clear business insights (honed through a decade in journalism).
 
 ---
 
 ### 🚀 Featured Projects
 
-| Project | Description | Key Technologies | Live Demo |
+| Project | Description | Key Technologies | Live Demo / Code |
 | :--- | :--- | :--- | :--- |
-| **[9-Way Recommender System](https://github.com/SWMLearner/9-way-recommender-system)** | An end-to-end system comparing 7 ML algorithms for course recommendations, fully containerized and deployed. | Streamlit, Docker, CI/CD, Scikit-learn, NLP | [Streamlit](https://9-way-recommender-system.streamlit.app/) / [ModelScope](https://modelscope.ai/studios/SargamWadhwa/9-way-recommender-system/) |
-| **[Deep Learning Fashion Classifier](https://github.com/SWMLearner/deep-learning-fashion-classifier)** | A convolutional neural network (CNN) to classify fashion items from the Fashion-MNIST dataset. | TensorFlow, Keras, CNN, Computer Vision | |
-| **[Market Segmentation](https://github.com/SWMLearner/market-segmentation-unsupervised-ml)** | Unsupervised clustering of customers to identify distinct segments for targeted marketing. | K-Means, PCA, Clustering | |
-| **[Credit Card Fraud Detection](https://github.com/SWMLearner/credit-card-fraud-detection)** | A classifier to detect fraudulent transactions, handling highly imbalanced data. | Imbalanced Learning, SMOTE, Classification | |
+| **9-Way Recommender System** | An end-to-end system comparing 7 ML algorithms for course recommendations, fully containerized and deployed. | Streamlit, Docker, CI/CD, NLP | [![ModelScope](https://img.shields.io/badge/🚀_Launch-ModelScope-blue)](https://modelscope.ai/studios/SargamWadhwa/9-way-recommender-system) |
+| **Football Goal Analysis** | Modeled **28.3% of goal variance** using composite feature engineering. Leveraged domain expertise to test betting market efficiency. | Python, Regression, Stat Analysis | [View Repo](https://github.com/SWMLearner/football-goal-analysis) |
+| **Credit Card Fraud Detection** | A classifier to detect fraudulent transactions in high-volume datasets, handling extreme class imbalance. | Imbalanced Learning, SMOTE, XGBoost | [View Repo](https://github.com/SWMLearner/credit-card-fraud-detection) |
+| **Deep Learning Fashion Classifier** | A convolutional neural network (CNN) to classify fashion items from the Fashion-MNIST dataset. | TensorFlow, Keras, CNN | [View Repo](https://github.com/SWMLearner/deep-learning-fashion-classifier) |
 
-*Explore more projects on my [GitHub Repositories](https://github.com/SWMLearner?tab=repositories).*
+> *Explore more projects on my [GitHub Repositories](https://github.com/SWMLearner?tab=repositories).*
 
 ---
 
 ### 📜 Background & Journey
-My career is a calculated pivot to machine learning, built on a solid academic foundation:
-- **🎓 B.Sc. (Hons) Statistics** from Kirori Mal College, University of Delhi (2010-2013).  
-- **💡 The Spark:** Discovered that machine learning is "statistics spoken through Python"—efficient, powerful, and intellectually rewarding.  
-- **🚀 The Transition:** Completed IBM's Machine Learning Professional Certificate and built a portfolio of deployed projects to bridge theory with production-grade practice.  
-- **✍️ Unique Edge:** My background in **sports journalism and writing** equips me with a crucial, often rare skill in tech: the ability to communicate complex results clearly and persuasively to any audience.
+
+My career is a calculated pivot to Machine Learning, built on a solid academic foundation:
+
+* 🎓 **The Foundation:** BSc (Hons) Statistics from **Kirori Mal College, University of Delhi**.
+    * *Ranked among the Top 5 Statistical Institutes in India.*
+* 💡 **The Spark:** I realized that Machine Learning is simply "statistics spoken through Python"—efficient, scalable, and intellectually rewarding.
+* 🚀 **The Transition:** Completed the **IBM Machine Learning Professional Certificate** and built a portfolio of Dockerized, deployed projects to bridge the gap between theory and production.
+* ✍️ **The Unique Edge:** My background in **Sports Journalism** equips me with a rare skill in tech: the ability to communicate complex data narratives clearly and persuasively to stakeholders.
 
 ---
 
 ### 🌍 What I'm Seeking
-I am actively looking for full-time, contract, or collaborative opportunities as a:
-- **Machine Learning Engineer**
-- **Deep Learning Engineer**
-- **MLOps Engineer**
 
-**Target Regions:** Southeast Asia, PRC, or with companies from these regions operating in India/globally. I bring a unique blend of analytical rigor, deployment expertise, and clear communication.
+I am actively looking for full-time or contract opportunities as a **Machine Learning Engineer**, **Deep Learning Engineer**, or **MLOps Engineer**.
+
+* **📍 Target Regions:** Southeast Asia (Singapore, Malaysia, Vietnam), China (PRC), or companies from these regions operating globally.
+* **✈️ Relocation:** Open to relocation.
 
 ---
 
 ### 📫 Let's Connect
-- **GitHub:** [github.com/SWMLearner](https://github.com/SWMLearner)
-- **LinkedIn:** https://linkedin.com/in/sargamwadhwa
-- **Email:** *sargamwad@gmail.com* 
+
+* **GitHub:** [github.com/SWMLearner](https://github.com/SWMLearner)
+* **LinkedIn:** [linkedin.com/in/sargamwadhwa](https://www.linkedin.com/in/sargamwadhwa)
+* **Email:** sargamwad@gmail.com
 
 *Open to discussing projects, opportunities, or the latest in ML!*
