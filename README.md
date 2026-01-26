@@ -48,6 +48,6 @@ I am actively looking for full-time, contract, or collaborative opportunities as
 ### 📫 Let's Connect
 - **GitHub:** [github.com/SWMLearner](https://github.com/SWMLearner)
 - **LinkedIn:** https://linkedin.com/in/sargamwadhwa
-- **Email:** *[sargamwad@gmail.com]* 
+- **Email:** *sargamwad@gmail.com* 
 
 *Open to discussing projects, opportunities, or the latest in ML!*
