@@ -46,6 +46,7 @@ I am actively looking for full-time or contract opportunities as a **Machine Lea
 
 * **📍 Target Regions:** Southeast Asia (Singapore, Malaysia, Vietnam), China (PRC), or companies from these regions operating globally.
 * **✈️ Relocation:** Open to relocation.
+* **🀄 Language:** Currently learning Mandarin (beginner) – actively studying to better integrate with the Chinese tech ecosystem.
 
 ---
 
