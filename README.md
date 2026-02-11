@@ -33,7 +33,7 @@
 My career is a calculated pivot to Machine Learning, built on a solid academic foundation:
 
 * 🎓 **The Foundation:** BSc (Hons) Statistics from **Kirori Mal College, University of Delhi**.
-    * *Ranked among the Top 5 Statistical Institutes in India.*
+    * *Ranked Top 5 in the country for selectivity*
 * 💡 **The Spark:** I realized that Machine Learning is simply "statistics spoken through Python"—efficient, scalable, and intellectually rewarding.
 * 🚀 **The Transition:** Completed the **IBM Machine Learning Professional Certificate** and focused on **Cloud Agnostic Deployment**. I deliberately deployed apps on both Streamlit and **ModelScope** to ensure capability across both Western and Asian tech stacks.
 * ✍️ **The Unique Edge:** My background in **Sports Writing and PR** equips me with a rare skill in tech: the ability to communicate complex data narratives clearly and persuasively to stakeholders.
