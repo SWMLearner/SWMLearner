@@ -23,7 +23,7 @@
 | **Football Goal Analysis** | Modeled **28.3% of goal variance** using composite feature engineering. Leveraged domain expertise to test betting market efficiency. | Python, Regression, Stat Analysis | [View Repo](https://github.com/SWMLearner/football-goal-analysis) |
 | **Credit Card Fraud Detection** | A classifier to detect fraudulent transactions in high-volume datasets, handling extreme class imbalance. | Imbalanced Learning, SMOTE, XGBoost | [View Repo](https://github.com/SWMLearner/credit-card-fraud-detection) |
 | **Deep Learning Fashion Classifier** | A convolutional neural network (CNN) to classify fashion items from the Fashion-MNIST dataset. | TensorFlow, Keras, CNN | [View Repo](https://github.com/SWMLearner/deep-learning-fashion-classifier) |
-| **RAG Document Q&A** 🚧 | A retrieval-augmented generation system for chatting with PDFs/text. Implements ingestion, semantic retrieval, and answer generation with LangChain, ChromaDB, and local LLMs (Ollama). Streamlit UI. | LangChain, ChromaDB, Ollama, Streamlit | [View Repo](https://github.com/SWMLearner/rag-document-qa) ![In Progress](https://img.shields.io/badge/Status-In_Progress-yellow) |
+| **RAG Document Q&A** 🚧 | A retrieval-augmented generation system for chatting with PDFs/text. Implements ingestion, semantic retrieval, and answer generation with LangChain, ChromaDB, and local LLMs (Ollama). Streamlit UI. | LangChain, ChromaDB, Ollama, Streamlit | [View Repo](https://github.com/SWMLearner/rag-doc-qa)![In Progress](https://img.shields.io/badge/Status-In_Progress-yellow) |
 
 > *Explore more projects on my [GitHub Repositories](https://github.com/SWMLearner?tab=repositories).*
 
