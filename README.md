@@ -53,7 +53,7 @@ I am actively looking for full-time or contract opportunities as a **Machine Lea
 
 ### 📫 Let's Connect
 
-* **GitHub:** [github.com/SWMLearner](https://github.com/SWMLearner)
+* **GitHub:** [github.com/Swadhwa-debug](https://github.com/Swadhwa-debug)
 * **LinkedIn:** [linkedin.com/in/sargamwadhwa](https://www.linkedin.com/in/sargamwadhwa)
 * **Email:** sargamwad@gmail.com
 
