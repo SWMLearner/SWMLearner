@@ -1,60 +1,45 @@
 # Hi, I'm Sargam 👋
 
-### 🎯 Machine Learning Practitioner | Specializing in Deep Learning & MLOps
+🎯 **Football data analyst & ML engineer** — building production ML systems and writing data journalism that gets read.
 
-**Building intelligent systems from concept to production.** I combine a rigorous foundation in statistical theory with modern, hands-on deployment skills.
+## 🚀 Featured Work
 
----
+| Project | Description | Stack | Live |
+|---------|-------------|-------|------|
+| **The Real Table** | Live Streamlit dashboard computing schedule-adjusted Premier League tables across 30+ seasons. Custom metrics: Bottling Index, Real Days at Top, SAPPG, Real Gap. | Python, Pandas, Streamlit, Render | [real-table.onrender.com](https://real-table.onrender.com) |
+| **"Did Arsenal Bottle It?"** | 3,500-word Medium data investigation of the 2025/26 PL title race. Introduced a custom Bottling Index across the full Premier League era. Companion paid Gumroad notebook. | Python, Pandas, matplotlib | [Read on Medium](https://sargamw.medium.com/did-arsenal-bottle-it-50b31d4a3088) |
+| **PL Referee Bias Analysis** | Hypothesis testing on referee Michael Oliver's match outcomes vs pre-match betting odds. Found 21.2% higher home-win rate than odds implied. **35K+ LinkedIn impressions, 60 saves.** | Python, BeautifulSoup, SciPy | [Read on Medium](https://medium.com/@sargamw/i-proved-the-premier-leagues-michael-oliver-bias-with-python-and-it-s-worse-than-you-think-34506986de8d) |
+| **9-Way Recommender System** | End-to-end recommender comparing 7 algorithms; deployed on Streamlit Cloud + ModelScope. Containerised with Docker, automated via GitHub Actions CI/CD. | Streamlit, Docker, CI/CD | [View Repo](https://github.com/Swadhwa-debug/9-way-recommender-system) |
+| **Credit Card Fraud Detection** | Classifier on highly imbalanced data (0.17% fraud rate); stacked ensemble achieved F1 = 0.82 (80% precision, 85% recall). | Scikit-learn, XGBoost, SMOTE | [View Repo](https://github.com/Swadhwa-debug/credit-card-fraud-detection) |
+| **Deep Learning Fashion Classifier** | Custom CNN, 91.9% accuracy on Fashion-MNIST (outperforming VGG16 transfer learning); 4.8× speedup with mixed precision + XLA. | TensorFlow, Keras, CNN | [View Repo](https://github.com/Swadhwa-debug/deep-learning-fashion-classifier) |
+| **RAG Document Q&A** 🚧 | Retrieval-augmented Q&A over uploaded PDFs. LangChain orchestration, ChromaDB vector store, local LLMs via Ollama, Streamlit UI. | LangChain, ChromaDB, Ollama, Streamlit | In Progress |
 
-### 🛠️ Technical Skills
+## 🛠️ Stack
 
-* **🧠 Machine Learning & Deep Learning:** Classical ML, Neural Networks, Computer Vision, Recommendation Systems, NLP
-* **🚀 MLOps & Deployment:** Docker, CI/CD (GitHub Actions), Streamlit, Model Serving, ModelScope (Alibaba Cloud)
-* **📊 Data Science Toolkit:** Python (Pandas, Scikit-learn, TensorFlow), Statistical Analysis, Hypothesis Testing
-* **🗣️ Core Strength:** **Data Storytelling** — Translating complex model results into clear business insights (honed through a decade in **Sports Writing and PR**).
+**Python & ML:** Pandas, NumPy, SciPy, Scikit-learn, XGBoost, TensorFlow, Keras, PyTorch (basic)
+**MLOps & Deployment:** Docker, GitHub Actions CI/CD, Streamlit, FastAPI (basic), Render, Streamlit Cloud, Alibaba ModelScope
+**GenAI / LLMs:** RAG, LangChain, ChromaDB, FAISS, Ollama, prompt engineering
+**Data Science:** Hypothesis testing, EDA, feature engineering, BeautifulSoup, matplotlib, seaborn
+**Football Analytics:** Familiar with xG / xT / VAEP / AGV / g+ literature; socceraction, Understat API, football-data.co.uk, Statsbomb open data
+**Tools:** Git, Jupyter, VS Code, Google Colab, Linux
 
----
+## 📚 Background
 
-### 🚀 Featured Projects
+**BSc (Hons) Statistics**, Kirori Mal College, University of Delhi (2010–2013) — top-5 statistics programme in India.
+**200+ published articles** across Sportskeeda and other publications during undergrad.
+**HARO ghostwriting** contract for an Australian PR firm, American clients (Jul–Dec 2021).
+**IBM Machine Learning Professional Certificate** (Coursera, December 2025).
 
-| Project | Description | Key Technologies | Live Demo / Code |
-| :--- | :--- | :--- | :--- |
-| **9-Way Recommender System** | **Dual Deployment Strategy:** Deployed on both Streamlit (Global) and **ModelScope (Alibaba Cloud)** to demonstrate readiness for the Chinese tech ecosystem. Compares 7 ML algorithms. | Streamlit, ModelScope, Docker, CI/CD | [![ModelScope](https://img.shields.io/badge/🚀_Launch-ModelScope-blue)](https://modelscope.ai/studios/SargamWadhwa/9-way-recommender-system) |
-| **Football Goal Analysis** | Modeled **28.3% of goal variance** using composite feature engineering. Leveraged domain expertise to test betting market efficiency. | Python, Regression, Stat Analysis | [View Repo](https://github.com/SWMLearner/football-goal-analysis) |
-| **Credit Card Fraud Detection** | A classifier to detect fraudulent transactions in high-volume datasets, handling extreme class imbalance. | Imbalanced Learning, SMOTE, XGBoost | [View Repo](https://github.com/SWMLearner/credit-card-fraud-detection) |
-| **Deep Learning Fashion Classifier** | A convolutional neural network (CNN) to classify fashion items from the Fashion-MNIST dataset. | TensorFlow, Keras, CNN | [View Repo](https://github.com/SWMLearner/deep-learning-fashion-classifier) |
-| **RAG Document Q&A** 🚧 | A retrieval-augmented generation system for chatting with PDFs/text. Implements ingestion, semantic retrieval, and answer generation with LangChain, ChromaDB, and local LLMs (Ollama). Streamlit UI. | LangChain, ChromaDB, Ollama, Streamlit | [View Repo](https://github.com/SWMLearner/rag-doc-qa)![In Progress](https://img.shields.io/badge/Status-In_Progress-yellow) |
+I committed to ML engineering full-time in 2023 — building on the Statistics foundation from Delhi University. The public work above is the result.
 
-> *Explore more projects on my [GitHub Repositories](https://github.com/Swadhwa-debug?tab=repositories).*
+## 🌍 What I'm Looking For
 
----
+ML Engineer, Data Scientist, Sports Analyst, or Technical Writing roles. Open to remote work or relocation.
 
-### 📜 Background & Journey
+Particularly interested in football analytics teams (Stats Perform, Statsbomb, SkillCorner, Twenty First Group), club analytics teams, AI/ML companies with remote culture, and technical writing for AI/data tooling companies.
 
-My career is a calculated pivot to Machine Learning, built on a solid academic foundation:
+## 📫 Contact
 
-* 🎓 **The Foundation:** BSc (Hons) Statistics from **Kirori Mal College, University of Delhi**.
-    * *Ranked Top 5 in the country for selectivity*
-* 💡 **The Spark:** I realized that Machine Learning is simply "statistics spoken through Python"—efficient, scalable, and intellectually rewarding.
-* 🚀 **The Transition:** Completed the **IBM Machine Learning Professional Certificate** and focused on **Cloud Agnostic Deployment**. I deliberately deployed apps on both Streamlit and **ModelScope** to ensure capability across both Western and Asian tech stacks.
-* ✍️ **The Unique Edge:** My background in **Sports Writing and PR** equips me with a rare skill in tech: the ability to communicate complex data narratives clearly and persuasively to stakeholders.
-
----
-
-### 🌍 What I'm Seeking
-
-I am actively looking for full-time or contract opportunities as a **Machine Learning Engineer**, **Deep Learning Engineer**, or **MLOps Engineer**.
-
-* **📍 Target Regions:** Southeast Asia (Singapore, Malaysia, Vietnam), China (PRC), or companies from these regions operating globally.
-* **✈️ Relocation:** Open to relocation.
-
-
----
-
-### 📫 Let's Connect
-
-* **GitHub:** [github.com/Swadhwa-debug](https://github.com/Swadhwa-debug)
-* **LinkedIn:** [linkedin.com/in/sargamwadhwa](https://www.linkedin.com/in/sargamwadhwa)
-* **Email:** sargamwad@gmail.com
-
-*Open to discussing projects, opportunities, or the latest in ML!*
+📧 **Email:** sargamwad@gmail.com
+💼 **LinkedIn:** [linkedin.com/in/sargamwadhwa](https://linkedin.com/in/sargamwadhwa)
+✍️ **Medium:** [medium.com/@sargamw](https://medium.com/@sargamw)
